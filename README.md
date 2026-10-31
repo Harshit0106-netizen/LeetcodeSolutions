@@ -8,6 +8,7 @@ Here i will be posting about my dsa progress
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0018-4sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -16,8 +17,10 @@ Here i will be posting about my dsa progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0018-4sum/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0018-4sum/) | Medium |
 <!---LeetCode Topics End-->
