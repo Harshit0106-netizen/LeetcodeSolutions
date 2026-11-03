@@ -18,6 +18,7 @@ Here i will be posting about my dsa progress
 | [0055-jump-game](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,11 +31,13 @@ Here i will be posting about my dsa progress
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0031-next-permutation/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0018-4sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
