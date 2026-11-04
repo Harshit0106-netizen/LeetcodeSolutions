@@ -19,6 +19,7 @@ Here i will be posting about my dsa progress
 | [0066-plus-one](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0162-find-peak-element](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0162-find-peak-element/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Here i will be posting about my dsa progress
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0162-find-peak-element](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0162-find-peak-element/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
