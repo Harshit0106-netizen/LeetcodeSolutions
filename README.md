@@ -67,4 +67,20 @@ Here i will be posting about my dsa progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0547-number-of-provinces/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0547-number-of-provinces/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Harshit0106-netizen/LeetcodeSolutions/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
